@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Hind+Vadodara:wght@400;500;600;700&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Hind Vadodara', sans-serif;
+}
+
+
+/* === Navbar === */
+.navbar-gradient {
+  background: linear-gradient(180deg, #ff5252 0%, #b71c1c 100%) !important;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+  color: white !important;
+}
+
+.navbar-gradient .v-select,
+.navbar-gradient h2,
+.navbar-gradient .v-icon {
+  color: white !important;
+}
+
+/* === SweetAlert2 === */
+.swal-confirm-btn {
+  color: #fff !important;
+  font-weight: 500;
+  border-radius: 8px;
+}
+
+.swal-cancel-btn {
+  color: #fff !important;
+}
