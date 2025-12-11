@@ -41,6 +41,6 @@ npm run dev
 ```
 
 ## Otros desarrollos Frontend
-Ejemplos usando Vue 3, Vuetify y otras bibliotecas [Frontend Vue 3](https://developer-marx-frontend-vue.netlify.app/)
-Ejemplo usando Angular 19, Angular Material, NodeJS y PostgreSQL [Aplicacion Angular](https://apptorneoaniversario.onrender.com/)
+- Ejemplos usando Vue 3, Vuetify y otras bibliotecas [Frontend Vue 3](https://developer-marx-frontend-vue.netlify.app/)  \
+- Ejemplo usando Angular 19, Angular Material, NodeJS y PostgreSQL [Aplicacion Angular](https://apptorneoaniversario.onrender.com/)
 Clave de acceso: campeones
