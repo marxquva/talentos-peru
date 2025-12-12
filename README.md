@@ -1,8 +1,6 @@
 
-# Caso: Lista de Ofertas de Trabajo
-Tu empresa lanzará una plataforma de reclutamiento de personas a nivel nacional, enfocada en conectar 
-empresas con postulantes de manera rápida y amigable. La aplicación estará disponible para todo el Perú y se 
-espera que sea intuitiva, inclusiva y atractiva visualmente.
+# Ofertas de Trabajo
+Aplicacion web bajo estructura Vue para listar ofertas de trabajo y reclutamiento de personas a nivel nacional, enfocada en conectar empresas con postulantes de manera rápida y amigable.
 
 ## Framework Frontend
 Vue 3.5 por su enfoque modular, rendimiento y facilidad de integración con bibliotecas modernas.
@@ -41,6 +39,4 @@ npm run dev
 ```
 
 ## Otros desarrollos Frontend
-- Ejemplos usando Vue 3, Vuetify y otras bibliotecas [Frontend Vue 3](https://developer-marx-frontend-vue.netlify.app/)  \
-- Ejemplo usando Angular 19, Angular Material, NodeJS y PostgreSQL [Aplicacion Angular](https://apptorneoaniversario.onrender.com/)
-Clave de acceso: campeones
+- Ejemplos usando Vue 3, Vuetify y otras bibliotecas [Frontend Vue 3](https://developer-marx-frontend-vue.netlify.app/)
